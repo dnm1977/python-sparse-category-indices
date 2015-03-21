@@ -14,9 +14,9 @@ may not work under other 2.x versions of the Python interpreter.
 
 You need to have 'hotshot' installed for profiling.
 
-For options, run [from this directory]:
+For options, run [from top-level directory]:
 
-python ./runff.py -h
+`python ./runff.py -h`
 
 All of the magic happens in ./ffclassifier.py
 
